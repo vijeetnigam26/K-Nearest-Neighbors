@@ -20,8 +20,10 @@ The distance between points is determined by using a generalized formula, known 
 <h2> 📖 Libraries Used </h2>
 numpy, pandas, collections, sklearn, matplotlib.pyplot
 
-<h2> 📚 Data Set </h2>
-To test the KNN classifier, I have uses the iris data set from sklearn.datasets. The data set has measurements (Sepal Length, Sepal Width, Petal Length, Petal Width) for 150 iris plants, split evenly among three species (0 = setosa, 1 = versicolor, and 2 = virginica).
+<h2> 🌼 Iris Plant Data Set </h2>
+To test the KNN classifier, I have uses the iris data set from sklearn.datasets. The data set has measurements (Sepal Length, Sepal Width, Petal Length, Petal Width) for 150 iris plants, split evenly among three species (0 = setosa, 1 = versicolor, and 2 = virginica). <br><br>
+
+[**Data Set**](http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/WholeStory-Iris.html)
 
 <h2> 🪜 Building KNN Model </h2>
 
